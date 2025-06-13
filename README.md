@@ -4,6 +4,8 @@
 
 This repository contains a SQL database project created using Microsoft SQL Server. The database is designed to handle data of a Health Clinic: all the neccessary patient data, employee data, information on clinic facilities, and more. This GitHub Repository contains all the necessary codes and files created as the group project for the Year 2 Semester 1 Database Management Systems for Security  Module at SLIIT.
 
+This project report also contains a comprehensive description of 2 SQL database vulnerabilities with proper detailed points on how to identify them and methods of mitigation. 
+
 
 ## Technologies Used
 
